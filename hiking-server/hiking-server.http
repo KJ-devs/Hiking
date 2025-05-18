@@ -1,0 +1,6 @@
+@hiking_server_HostAddress = http://localhost:5144
+
+GET {{hiking_server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
